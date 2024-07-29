@@ -1,6 +1,6 @@
 # Ignite-Timer
 
-![GitHub language count](https://img.shields.io/github/languages/count/typingfeignite-timer?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/typingfe/ignite-timer?style=for-the-badge)
 
 <img src="./src/assets/screenshot.png" alt="Project image">
 <img src="./src/assets/screenshot-2.png" alt="Project image">
